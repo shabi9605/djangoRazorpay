@@ -12,6 +12,7 @@ django-environ = "*"
 django-extensions = "*"
 gunicorn = "*"
 ipython = "*"
+razorpay = "*"
 
 [dev-packages]
 yapf = "*"
